@@ -1,4 +1,4 @@
-"# castle-company" 
+# castle-company
 
 Let’s say you have an array of integers that describes a stretch of land, where each integer represents the
 
