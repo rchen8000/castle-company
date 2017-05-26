@@ -23,6 +23,8 @@ ints. For example, in the sequence [2,6,6,6,3] the sequence of 3 6s is a peak.
 
 following ints. For example, in the sequence [6,1,4] the "1" would be a valley.
 
+==================================================
+
 Solution:
 
 •	Using two pointers: uptrend pointer and downtrend pointer. set both pointers to -1 initially.
